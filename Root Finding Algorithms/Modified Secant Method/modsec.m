@@ -1,6 +1,6 @@
 function [x, nit] = modsec(f,x,delta,etol,maxit)
 % This function finds the root of a function using
-% The Midified Secant Method
+% The Modified Secant Method
 % INPUT:
 % f = function to find root to
 % x = initial guess
