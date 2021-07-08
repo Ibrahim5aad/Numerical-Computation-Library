@@ -1,2 +1,1 @@
-# Numerical-Computation-Library
-Matlab/Octave library for some numerical computations.
+ Matlab/Octave package for some numerical computations.
